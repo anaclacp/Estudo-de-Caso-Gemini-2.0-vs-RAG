@@ -1,0 +1,1 @@
+# Estudo-de-Caso-Gemini-2.0-vs-RAG
